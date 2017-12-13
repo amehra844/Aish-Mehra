@@ -1,6 +1,6 @@
 ## Welcome to my website
 
-I am a Freshman at UIUC pursuing a major in Applied Math
+I am a Freshman at UIUC pursuing a major in Applied Math.
 I'm from Cupertino, CA. 
 Tim Cook is my neighbor!!
 
