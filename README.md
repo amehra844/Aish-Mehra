@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/amehra844/Aish-Mehra/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Freshman at UIUC pursuing a major in Applied Math
+I'm from Cupertino, CA. 
+Tim Cook is my neighbor!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](http://static5.businessinsider.com/image/55e9aa77dd08952c388b46c9-480/apple-campus.jpg)
 
-### Markdown
+### My Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MATH!!!! I LOVE MATH!!
+If anyone needs help with math homework, contact me.
 
-```markdown
-Syntax highlighted code block
+![Image](http://www.kpwealth.com/wp-content/uploads/2011/12/blackboard-with-complicated-math-formula.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+### What I can do for you
 
-- Bulleted
-- List
+If anyone is ever in the San Francisco Bay Area, I have great restaurant recomendations!
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amehra844/Aish-Mehra/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Need the restaurant recomendations? Need help with math? Contact me @aishmehra101@gmail.com
