@@ -1,6 +1,6 @@
 ## Welcome to my website
 
-I am a Sophomore at UIUC pursuing a major in Applied Math.
+I am a Sophomore at UIUC pursuing a major in Applied Math with minors in Econometrics and Computer Science.
 I'm from Cupertino, CA. 
 Tim Cook is my neighbor!!
 
