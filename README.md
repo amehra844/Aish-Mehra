@@ -19,4 +19,4 @@ If anyone is ever in the San Francisco Bay Area, I have great restaurant recomen
 
 ### Contact
 
-Need the restaurant recomendations? Need help with math? Contact me @mehra8@illinois.edu
+Need the restaurant recomendations? Need help with math? Contact me at mehra8@illinois.edu
