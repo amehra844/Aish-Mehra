@@ -15,7 +15,7 @@ If anyone needs help with math homework, contact me.
 
 ### What I can do for you
 
-If anyone is ever in the San Francisco Bay Area, I have great restaurant recomendations!
+If anyone is ever in the San Francisco Bay Area, I have great restaurant recomendations! You can also come to me if you want to project future trends using Python (not the snake)!
 
 ### Contact
 
